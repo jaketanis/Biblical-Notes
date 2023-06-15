@@ -1,2 +1,2 @@
-# Biblical-Notes
-Notes I have accumulated from studying the Bible and Biblical topics. 
+# Bible-Wiki
+A personal resource center for Biblical and Theological topics.
